@@ -14,11 +14,11 @@ html {
     color: firebrick;
     background-color:indigo;
 }
+#recipe-list-items a {
+    color:yellow;
+    background-color:indigo;
+} /*Changes link background and text*/
 #recipe-list-items {
-    color:black;
+    color:forestgreen;
     background-color:indigo;
-}
-    #recipe-list-items a {
-    color:black;
-    background-color:indigo;
-}
+}/*Changes bullet point and non-link text*/
