@@ -1,0 +1,24 @@
+/* styles.css */
+a {
+    text-decoration:none;
+    color:firebrick;
+}
+html {
+    color:snow;
+    background-color:black
+}
+.header-text {
+    color: whitesmoke;
+}
+#recipe-list {
+    color: firebrick;
+    background-color:indigo;
+}
+#recipe-list-items {
+    color:black;
+    background-color:indigo;
+}
+    #recipe-list-items a {
+    color:black;
+    background-color:indigo;
+}
