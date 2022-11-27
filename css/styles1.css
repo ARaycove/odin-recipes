@@ -1,24 +1,15 @@
 /* styles.css */
-a {
-    text-decoration:none;
-    color:firebrick;
-}
 html {
     color:snow;
     background-color:black
 }
-.header-text {
-    color: whitesmoke;
-}
-#recipe-list {
-    color: firebrick;
-    background-color:indigo;
-}
-#recipe-list-items a {
-    color:yellow;
-    background-color:indigo;
-} /*Changes link background and text*/
-#recipe-list-items {
+a {
     color:forestgreen;
-    background-color:indigo;
-}/*Changes bullet point and non-link text*/
+    text-decoration:none;
+}
+button {
+    font-size:32px;
+}
+ul {
+    color:firebrick;
+}
